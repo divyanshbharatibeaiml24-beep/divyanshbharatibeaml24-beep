@@ -182,8 +182,4 @@ An AI-powered lightweight cryptography framework combining adaptive AI, on-devic
 
 ---
 
-**Made with ❤️ and ☕ by Divyansh Bharati**
-
-*"Life is hard. Make it harder until your GitHub looks like this."* ⚡💻
-
-</div>
+**Made by Divyansh Bharati**
